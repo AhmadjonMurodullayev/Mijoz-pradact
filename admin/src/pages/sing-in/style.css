@@ -1,0 +1,70 @@
+.sign-in-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 30px;
+  }
+  
+  .sign-in-form {
+    flex: 1;
+    width: 100%;
+    max-width: 360px;
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sign-in-title {
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .input-icon {
+    color: rgba(0, 0, 0, 0.25);
+  }
+  
+  .form-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .forgot-password {
+    color: #1890ff;
+    transition: color 0.3s;
+  }
+  
+  .forgot-password:hover {
+    color: #40a9ff;
+  }
+  
+  .login-button {
+    background: #1890ff;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .login-button:hover {
+    background: #40a9ff;
+  }
+  
+  .register-link {
+    text-align: center;
+    margin-top: 12px;
+  }
+  
+  .register-link a {
+    color: #1890ff;
+    font-weight: 500;
+  }
+  
+  .register-link a:hover {
+    color: #40a9ff;
+  }
+  

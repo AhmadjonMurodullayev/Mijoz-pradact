@@ -1,0 +1,234 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$2Ko2Vfc8ZuZWV/tEygK39O4T2jPVqwFeZOiRhxOLGpjLEf0hcoUMi",
+      "phone": "998932222647",
+      "id": 1
+    },
+    {
+      "email": "ahmadjon@gmail.com",
+      "password": "$2a$10$apaEpPjTWm0oj7zv3kZxhuLlbPxhe/Bvuey9cV5410irkFNyBbDxW",
+      "confirm": "123123",
+      "prefix": "+998",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 2
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$1cODG9dEJnUuIMKd.qOmQu3dMKJnzodqaNOa9VplTDUxW2P98OSJi",
+      "confirm": "123123",
+      "prefix": "+998",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 3
+    },
+    {
+      "email": "kimdir@gmail.com",
+      "password": "$2a$10$ULd/SrLEIauKJccGQStZ3OO8A8CF9Kp42Esqhp10srn34lryFrjtK",
+      "confirm": "123123",
+      "prefix": "+998",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 4
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "$2a$10$w4HB4vn8aLWXGmrlp3YRgurTDXvWMATzKROkQ3dVTl6BYy/0s/H96",
+      "confirm": "123123",
+      "prefix": "+998",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 5
+    },
+    {
+      "email": "admin3@gmail.com",
+      "password": "$2a$10$DUUY9/2xD5uA.7deapqxpehuHBCbKSFydqHpgg0Rs/zPbt6IGg2TW",
+      "confirm": "123123",
+      "prefix": "86",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 6
+    },
+    {
+      "email": "admin4@gmail.com",
+      "password": "$2a$10$q4rz1Ay3NRLWkHv8YtFed.UwWHkRg/DkAzsd2oU/jkKYZVLrDx1uC",
+      "confirm": "123123",
+      "prefix": "86",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 7
+    },
+    {
+      "email": "admin5@gmail.com",
+      "password": "$2a$10$SM4Qz995jPTd8UFJ4X1AGue/ynW/k2IoKyNnFiYJgX1j6OASU.srG",
+      "confirm": "123123",
+      "prefix": "86",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 8
+    },
+    {
+      "email": "admin9@gmail.com",
+      "password": "$2a$10$Nwsec2Lop9Zxjs0ZWJSiMeQUk1qsGv3ZTOwEyi2PHN/jd..WuE8GG",
+      "confirm": "123123",
+      "prefix": "86",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 9
+    },
+    {
+      "email": "admin18@gmail.com",
+      "password": "$2a$10$R9zDqpJmhUbuTmMB5iwP..Pz42aMPsWbdBI9BBBtakH0m1HL2Vf26",
+      "confirm": "123123",
+      "prefix": "86",
+      "phone": "932222647",
+      "agreement": true,
+      "id": 10
+    }
+  ],
+  "stats": [
+    {
+      "calls": 235,
+      "leads": {
+        "count": 1122,
+        "growth": 10
+      },
+      "clients": {
+        "count": 1122,
+        "growth": -3.5
+      },
+      "callsGrowth": {
+        "count": 1122,
+        "growth": 10
+      }
+    }
+  ],
+  "bino": [
+    {
+      "id": 1,
+      "name": "Dream House 2-uy",
+      "qavat": "12",
+      "xona": "48"
+    },
+    {
+      "id": 2,
+      "name": "Dream House 2-uy",
+      "qavat": "12",
+      "xona": "48"
+    },
+    {
+      "id": 3,
+      "name": "Dream House 2-uy",
+      "qavat": "12",
+      "xona": "48"
+    },
+    {
+      "id": 4,
+      "name": "Dream House 2-uy",
+      "qavat": "12",
+      "xona": "48"
+    },
+    {
+      "id": 5,
+      "name": "Dream House 2-uy",
+      "qavat": "12",
+      "xona": "48"
+    },
+    {
+      "id": 6,
+      "name": "Dream House 2-uy",
+      "qavat": "12",
+      "xona": "48"
+    },
+    {
+      "name": "Tashkent Sity",
+      "qavat": "15",
+      "podes": "2",
+      "xona": "55",
+      "xonalar": [
+        {
+          "id": 1,
+          "raqam": 1,
+          "qavat": 1,
+          "podes": 1,
+          "maydon": "50m²"
+        },
+        {
+          "id": 2,
+          "raqam": 2,
+          "qavat": 1,
+          "podes": 1,
+          "maydon": "55m²"
+        },
+        {
+          "id": 3,
+          "raqam": 3,
+          "qavat": 1,
+          "podes": 2,
+          "maydon": "45m²"
+        },
+        {
+          "id": 4,
+          "raqam": 4,
+          "qavat": 2,
+          "podes": 1,
+          "maydon": "60m²"
+        },
+        {
+          "id": 5,
+          "raqam": 5,
+          "qavat": 2,
+          "podes": 2,
+          "maydon": "50m²"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Star Hause",
+      "qavat": "18",
+      "podes": "12",
+      "xona": "55",
+      "xonalar": [
+        {
+          "id": 1,
+          "raqam": 1,
+          "qavat": 1,
+          "podes": 1,
+          "maydon": "40m²"
+        },
+        {
+          "id": 2,
+          "raqam": 2,
+          "qavat": 1,
+          "podes": 2,
+          "maydon": "42m²"
+        },
+        {
+          "id": 3,
+          "raqam": 3,
+          "qavat": 2,
+          "podes": 1,
+          "maydon": "38m²"
+        },
+        {
+          "id": 4,
+          "raqam": 4,
+          "qavat": 2,
+          "podes": 2,
+          "maydon": "40m²"
+        }
+      ]
+    },
+    {
+      "name": "Alisher Hause",
+      "qavat": "12",
+      "podes": "55",
+      "xona": "12",
+      "id": 9
+    }
+  ]
+}
